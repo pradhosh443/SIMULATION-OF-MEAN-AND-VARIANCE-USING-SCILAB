@@ -83,12 +83,11 @@ plot2d3('gnn',r);
 
 
 ## CALCULATION
+![MV 1](https://github.com/user-attachments/assets/43113e7e-a3e4-483b-8445-ba5ed8496427)
 
+![MV 2](https://github.com/user-attachments/assets/7b347ee6-4410-4b0f-877f-8cf004b891da)
 
-
-
-
-
+![MV 3](https://github.com/user-attachments/assets/d17b8929-253f-4a8a-9708-7fa75396f29d)
 
 
 ## OUTPUT
